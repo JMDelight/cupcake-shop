@@ -1,0 +1,26 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best {
+  font-size: 30px;
+  text-shadow:1px 1px 2px red;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  border: 10px solid red;
+}
+
+body {
+  background-color: pink;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+a {
+  color: brown;
+}
